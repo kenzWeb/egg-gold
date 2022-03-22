@@ -1,0 +1,13 @@
+$kurale: 'Kurale', sans-serif;
+$os: 'Open Sans', sans-serif;
+
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: $os;
+    background: black;
+}

@@ -1,0 +1,6 @@
+.home {
+    background-color: white;
+    @media(min-width: 800px) {
+        background: green;
+    }
+}
